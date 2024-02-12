@@ -2,7 +2,7 @@
 
 ***Built Front End of a Payments Application:***  
 
-**Developer 4 Pages:**  
+**Include 4 Pages:**  
 
 ***1) Sign Up Page***  
 ***2) Sign In Page***  
