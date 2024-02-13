@@ -4,10 +4,10 @@
 
 **Include 4 Pages:**  
 
-***1) Sign Up Page***  
-***2) Sign In Page***  
-***3) Dashboard Page***    
-***4) Send Money Page***  
+***1) Sign Up Page***: /signup  
+***2) Sign In Page***: /signin  
+***3) Dashboard Page***: /dashboard   
+***4) Send Money Page***: /send  
 
 **Step to Run the project locally**  
 
